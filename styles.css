@@ -166,7 +166,7 @@ a.btn.dark:hover {
 }
 
 /* animations */
-/* .hero-bg-left img {
+.hero-bg-left img {
   animation: move-images 1000ms forwards ease-in-out;
   transform: translateX(-100%);
 }
@@ -200,7 +200,7 @@ a.btn.dark:hover {
     transform: translateY(0);
     opacity: 1;
   }
-} */
+}
 
 nav .mobile-menu,
 nav .mobile-close,
